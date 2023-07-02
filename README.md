@@ -3,7 +3,7 @@ The question answering is a NLP task, it has different approaches. In this proje
 
 Here's a step-by-step breakdown of how extractive QA works:
 
-<b>Input:<\b> The input to an extractive QA system consists of two main components:
+<b>Input:</b> The input to an extractive QA system consists of two main components:
 
 Question: A natural language question that the system needs to answer.
 Context: A passage or document containing the relevant information needed to answer the question.
