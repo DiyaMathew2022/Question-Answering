@@ -23,3 +23,6 @@ Text Preprocessing: The question and context are preprocessed to remove any unne
 
 Overall, extractive QA systems use machine learning models to understand and extract the most relevant information from a given context to answer questions accurately. These systems have various applications, including question answering on large document collections, customer support, or providing information retrieval from unstructured text sources.
 
+<b>The SQuAD dataset</b>
+Stanford Question Answering Dataset (SQuAD) is a reading comprehension dataset, consisting of questions posed by crowdworkers on a set of Wikipedia articles, where the answer to every question is a segment of text, or span, from the corresponding reading passage, or the question might be unanswerable.
+
